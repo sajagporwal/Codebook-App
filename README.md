@@ -9,7 +9,7 @@
 ## TODO
 CodeBook- A social media for developers. The web application offers developers view each other's profile, connect to each other,make trending psots and comment on posts.
 
-This project was part of our Web Devlopment course (CS5610) at Northeastern University. This repo contains the front-end code.
+This project was part of our Web Devlopment course (CS5610) at Northeastern University. This repo contains the client and server code.
 
 We are using the GitHub API to get the public repositories of users.
 
